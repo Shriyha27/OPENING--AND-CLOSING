@@ -22,6 +22,9 @@ Similarly, perform closing operation and display the result
 ## Program:
 
 ``` Python
+#NAME: V.SHRIYHA
+#REG.NO: 212224230267
+
 # Import necessary packages
 import cv2
 import numpy as np
